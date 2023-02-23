@@ -63,13 +63,7 @@
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+
 ---
 
 ### 📖 My Latest Blog Posts
